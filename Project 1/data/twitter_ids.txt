@@ -1,0 +1,100 @@
+{"data":{"id":"1074518754","name":"Sen. Tammy Baldwin","username":"SenatorBaldwin"}}
+{"data":{"id":"202206694","name":"Sen. John Barrasso","username":"SenJohnBarrasso"}}
+{"data":{"id":"45645232","name":"Michael Bennet","username":"MichaelBennet"}}
+{"data":{"id":"278145569","name":"Sen. Marsha Blackburn","username":"MarshaBlackburn"}}
+{"data":{"id":"278124059","name":"Richard Blumenthal","username":"SenBlumenthal"}}
+{"data":{"id":"21269970","name":"Senator Roy Blunt","username":"RoyBlunt"}}
+{"data":{"id":"15808765","name":"Cory Booker","username":"CoryBooker"}}
+{"data":{"id":"5558312","name":"Senator John Boozman","username":"JohnBoozman"}}
+{"data":{"id":"1861019372","name":"Mike Braun","username":"braun4indiana"}}
+{"data":{"id":"43910797","name":"Sherrod Brown","username":"SenSherrodBrown"}}
+{"data":{"id":"21157904","name":"Richard Burr","username":"SenatorBurr"}}
+{"data":{"id":"117501995","name":"Sen. Maria Cantwell","username":"SenatorCantwell"}}
+{"data":{"id":"193794406","name":"Shelley Moore Capito","username":"SenCapito"}}
+{"data":{"id":"109071031","name":"Senator Ben Cardin","username":"SenatorCardin"}}
+{"data":{"id":"249787913","name":"Senator Tom Carper","username":"SenatorCarper"}}
+{"data":{"id":"171598736","name":"Senator Bob Casey","username":"SenBobCasey"}}
+{"data":{"id":"55677432","name":"Bill Cassidy, M.D.","username":"BillCassidy"}}
+{"data":{"id":"19726613","name":"Sen. Susan Collins","username":"SenatorCollins"}}
+{"data":{"id":"435500714","name":"Office of Sen. Coons","username":"SenCoonsOffice"}}
+{"data":{"id":"13218102","name":"Senator John Cornyn","username":"JohnCornyn"}}
+{"data":{"id":"968650362","name":"Tom Cotton","username":"SenTomCotton"}}
+{"data":{"id":"1048784496","name":"Sen. Kevin Cramer","username":"SenKevinCramer"}}
+{"data":{"id":"600463589","name":"Senator Mike Crapo","username":"MikeCrapo"}}
+{"data":{"id":"1074480192","name":"Senator Ted Cruz","username":"SenTedCruz"}}
+{"data":{"id":"11651202","name":"Steve Daines","username":"SteveDaines"}}
+{"data":{"id":"247334603","name":"Senator Dick Durbin","username":"SenatorDurbin"}}
+{"data":{"id":"2856787757","name":"Joni Ernst","username":"SenJoniErnst"}}
+{"data":{"id":"476256944","name":"Senator Dianne Feinstein","username":"SenFeinstein"}}
+{"data":{"id":"1071402577","name":"Senator Deb Fischer","username":"SenatorFischer"}}
+{"data":{"id":"72198806","name":"Kirsten Gillibrand","username":"SenGillibrand"}}
+{"data":{"id":"3289557010","name":"Lindsay Graham Fake","username":"LindsayGrahamSC"}}
+{"data":{"id":"10615232","name":"ChuckGrassley","username":"ChuckGrassley"}}
+{"data":{"id":"1152598802873880576","name":"Bill Hagerty","username":"BillHagertyTN"}}
+{"data":{"id":"361569788","name":"Maggie Hassan","username":"Maggie_Hassan"}}
+{"data":{"id":"2352629311","name":"Josh Hawley","username":"HawleyMO"}}
+{"data":{"id":"1099199839","name":"Martin Heinrich","username":"MartinHeinrich"}}
+{"data":{"id":"1318728336923787264","name":"Senator John Hickenlooper","username":"SenatorHick"}}
+{"data":{"id":"92186819","name":"Senator Mazie Hirono","username":"maziehirono"}}
+{"data":{"id":"382791093","name":"Senator John Hoeven","username":"SenJohnHoeven"}}
+{"data":{"id":"983348251972816896","name":"U.S. Senator Cindy Hyde-Smith","username":"SenHydeSmith"}}
+{"data":{"id":"20546536","name":"Inhofe Press Office","username":"InhofePress"}}
+{"data":{"id":"233737858","name":"Senator Ron Johnson","username":"SenRonJohnson"}}
+{"data":{"id":"172858784","name":"Tim Kaine","username":"timkaine"}}
+{"data":{"id":"1324926274888888320","name":"Senator Mark Kelly","username":"SenMarkKelly"}}
+{"data":{"id":"26594419","name":"John Neely Kennedy","username":"JohnKennedyLA"}}
+{"data":{"id":"1068481578","name":"Senator Angus King","username":"SenAngusKing"}}
+{"data":{"id":"33537967","name":"Amy Klobuchar","username":"amyklobuchar"}}
+{"data":{"id":"225921757","name":"Sen. James Lankford","username":"SenatorLankford"}}
+{"data":{"id":"242836537","name":"Sen. Patrick Leahy","username":"SenatorLeahy"}}
+{"data":{"id":"88784440","name":"Mike Lee","username":"SenMikeLee"}}
+{"data":{"id":"19318314","name":"Ben Ray Luján","username":"SenatorLujan"}}
+{"data":{"id":"22831059","name":"Senator Cynthia Lummis","username":"SenLummis"}}
+{"data":{"id":"234374703","name":"Senator Joe Manchin","username":"Sen_JoeManchin"}}
+{"data":{"id":"21406834","name":"Ed Markey","username":"SenMarkey"}}
+{"data":{"id":"1240107944","name":"Dr. Roger Marshall","username":"RogerMarshallMD"}}
+{"data":{"id":"339822881","name":"Senator McConnell Press","username":"McConnellPress"}}
+{"data":{"id":"18695134","name":"Senator Bob Menendez","username":"SenatorMenendez"}}
+{"data":{"id":"29201047","name":"Senator Jeff Merkley","username":"SenJeffMerkley"}}
+{"data":{"id":"18632666","name":"Senator Jerry Moran","username":"JerryMoran"}}
+{"data":{"id":"18061669","name":"Sen. Lisa Murkowski","username":"lisamurkowski"}}
+{"data":{"id":"150078976","name":"Chris Murphy","username":"ChrisMurphyCT"}}
+{"data":{"id":"293131808","name":"Senator Patty Murray","username":"PattyMurray"}}
+{"data":{"id":"521747968","name":"Jon Ossoff","username":"ossoff"}}
+{"data":{"id":"1351236267707654145","name":"Alex Padilla","username":"SenAlexPadilla"}}
+{"data":{"id":"216881337","name":"Senator Rand Paul","username":"RandPaul"}}
+{"data":{"id":"236511574","name":"Senator Gary Peters","username":"SenGaryPeters"}}
+{"data":{"id":"18915145","name":"Rob Portman","username":"senrobportman"}}
+{"data":{"id":"486694111","name":"Senator Jack Reed","username":"SenJackReed"}}
+{"data":{"id":"1096059529","name":"Jim Risch","username":"SenatorRisch"}}
+{"data":{"id":"1078693601356509184","name":"Senator Mitt Romney","username":"SenatorRomney"}}
+{"data":{"id":"818554054309715969","name":"Senator Jacky Rosen","username":"SenJackyRosen"}}
+{"data":{"id":"2955485182","name":"Senator Mike Rounds","username":"SenatorRounds"}}
+{"data":{"id":"15745368","name":"Marco Rubio","username":"marcorubio"}}
+{"data":{"id":"29442313","name":"Bernie Sanders","username":"SenSanders"}}
+{"data":{"id":"2962923040","name":"Senator Ben Sasse","username":"SenSasse"}}
+{"data":{"id":"1262099252","name":"Senator Brian Schatz","username":"SenBrianSchatz"}}
+{"data":{"id":"17494010","name":"Chuck Schumer","username":"SenSchumer"}}
+{"data":{"id":"306389855","name":"Rick Scott","username":"ScottforFlorida"}}
+{"data":{"id":"217543151","name":"Tim Scott","username":"SenatorTimScott"}}
+{"data":{"id":"109287731","name":"Sen. Jeanne Shaheen","username":"SenatorShaheen"}}
+{"data":{"id":"21111098","name":"Richard Shelby","username":"SenShelby"}}
+{"data":{"id":"1080844782","name":"Kyrsten Sinema","username":"SenatorSinema"}}
+{"data":{"id":"941000686275387392","name":"Senator Tina Smith","username":"SenTinaSmith"}}
+{"data":{"id":"76456274","name":"Sen. Debbie Stabenow","username":"SenStabenow"}}
+{"data":{"id":"2891210047","name":"Sen. Dan Sullivan","username":"SenDanSullivan"}}
+{"data":{"id":"515822213","name":"Senator Jon Tester","username":"SenatorTester"}}
+{"data":{"id":"296361085","name":"Senator John Thune","username":"SenJohnThune"}}
+{"data":{"id":"2964174789","name":"Senator Thom Tillis","username":"SenThomTillis"}}
+{"data":{"id":"221162525","name":"Senator Pat Toomey","username":"SenToomey"}}
+{"data":{"id":"110798061","name":"Tommy Tuberville","username":"TTuberville"}}
+{"data":{"id":"18137749","name":"Senator Chris Van Hollen","username":"ChrisVanHollen"}}
+{"data":{"id":"7429102","name":"Mark Warner","username":"MarkWarner"}}
+{"data":{"id":"1221242033530195970","name":"Senator Reverend Raphael Warnock","username":"ReverendWarnock"}}
+{"data":{"id":"970207298","name":"Elizabeth Warren","username":"SenWarren"}}
+{"data":{"id":"242555999","name":"Sheldon Whitehouse","username":"SenWhitehouse"}}
+{"data":{"id":"264219447","name":"Senator Roger Wicker","username":"SenatorWicker"}}
+{"data":{"id":"250188760","name":"Ron Wyden","username":"RonWyden"}}
+{"data":{"id":"234128524","name":"Senator Todd Young","username":"SenToddYoung"}}
+{"data":{"id":"811313565760163844","name":"Senator Cortez Masto","username":"SenCortezMasto"}}
+{"data":{"id":"1058520120","name":"Tammy Duckworth","username":"SenDuckworth"}}
