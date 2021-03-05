@@ -28,7 +28,7 @@
 {"data":{"id":"476256944","name":"Senator Dianne Feinstein","username":"SenFeinstein"}}
 {"data":{"id":"1071402577","name":"Senator Deb Fischer","username":"SenatorFischer"}}
 {"data":{"id":"72198806","name":"Kirsten Gillibrand","username":"SenGillibrand"}}
-{"data":{"id":"432895323","name":"Lindsay Graham","username":"LindseyGrahamSC"}}
+{"data":{"id":"432895323","name":"Lindsey Graham","username":"LindseyGrahamSC"}}
 {"data":{"id":"10615232","name":"ChuckGrassley","username":"ChuckGrassley"}}
 {"data":{"id":"1152598802873880576","name":"Bill Hagerty","username":"BillHagertyTN"}}
 {"data":{"id":"361569788","name":"Maggie Hassan","username":"Maggie_Hassan"}}
