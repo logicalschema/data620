@@ -1,0 +1,47 @@
+ID,Name,Category
+KP,KPMG,Accountancy
+CL,Coopers & Lybrand,Accountancy
+EY,Ernst & Young International,Accountancy
+AA,Arthur Andersen,Accountancy
+PW,Price Waterhouse,Accountancy
+GR,Grey Worldwide,Advertising
+DM,DMB&B (MacManus Group),Advertising
+LH,Lowe Howard -Spink,Advertising
+SS,Saatchi and Saatchi,Advertising
+TH,JWT (Thompson),Advertising
+OM,Ogilvy & Mather Direct Worldwide,Advertising
+DE,Dentsu,Advertising
+YR,Young & Rubicam,Advertising
+TM,TMP,Advertising
+PU,Publicis,Advertising
+AM,Abbott Mead Vickers (BBDO),Advertising
+HS,HSBC,Banking and Finance
+BA,Barclays,Banking and Finance
+NW,NatWest Group,Banking and Finance
+SC,Standard Chartered Group,Banking and Finance
+CR,Creditanstalt-Bankverein,Banking and Finance
+DR,Dresdner Bank Group,Banking and Finance
+MO,J P Morgan,Banking and Finance
+PA,Compagnie Financière de Paribas SA,Banking and Finance
+CS,Credit Suisse,Banking and Finance
+BB,BBV Group,Banking and Finance
+BT,Banker's Trust,Banking and Finance
+UB,UBS,Banking and Finance
+AB,ABN-AMRO,Banking and Finance
+CB,Citibank,Banking and Finance
+BM,Baker & McKenzie,Law
+WC,White & Case,Law
+LL,"Leboeuf, Lamb, Greene & MacRae",Law
+CO,Coudert Brothers,Law
+SK,Skadden Arps,Law
+BC,Bryan Cave,Law
+DW,Dorsey & Whitney,Law
+GJ,Graham & James,Law
+HH,Hogan & Hartson,Law
+JD,"Jones, Day, Reavis & Pogue",Law
+MC,"Miller, Canfield, Paddock & Stone",Law
+SQ,"Squire, Sanders & Dempsey",Law
+WE,"Wilson, Elser, Moskowitz, Edelman & Dicker",Law
+AO,Allen & Overy,Law
+CC,Clifford Chance,Law
+FF,Freshfields,Law
